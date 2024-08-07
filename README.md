@@ -1,13 +1,13 @@
-# BADBOI-v2
-   ## Hi there 👋
+# DOMA-v2
+   ## HI I AM DOMA MOON V2   👋
 
-<h1 align="center">ꪶBADBOI-v2 BUGꫂ<br></h1>
+<h1 align="center">ꪶDOMA MOON-v2 BUGꫂ<br></h1>
 <p align="center">
 <img src="https://telegra.ph/file/2fc766ab7467ded0fac9c.png" />
 </p>
 
 <p align="center">
-BADBOI-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/BADBOI-v1" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
+DOMA MOON-v2 𝘽𝙤𝙩 Multi Device is a whatsapp bot created by <a href="https://github.com/Joker15-tech/BADBOI-v2" target="_blank">BADBOI</a> using <a href="https://github.com/adiwajshing/Baileys" target="_blank">Baileys</a> and <a href="https://github.com/nodejs" target="_blank">Nodejs</a>. Dont forget to give a star bro.
 </p>
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+_____BADBOI+v2_____;WHATSAPP+CRASH+x+BUG+BOT;DEVELOPED+BY+BAD+BOI;REALESE+DATE+14%2F7%2F2024." alt="Typing SVG" /></a>
@@ -105,7 +105,7 @@ pkg install wget
 pkg install yarn
 ```
 ```
-git clone (copy and paste your forked repo link not mine to save changes your changes) 
+git clone https://github.com/Joker15-tech/BADBOI-v2
 ```
 ```
 cd BADBOI-v2
@@ -134,7 +134,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 - [Download Libwebp](https://developers.google.com/speed/webp/download)
 
 ```cmd
-> git clone https://github.com/BADBOI-v1/BADBOI-v2.git
+> git clone https://github.com/Joker15-tech/BADBOI-v2.git
 ```
 ```
 > cd BADBOI-v2
@@ -150,7 +150,7 @@ npm i -g forever && forever index.js && forever save && forever logs
 ## ```Connect With Me```<img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"></h1> 
  <br> 
 <p align="center">
-<a href="https://wa.me/2348140825959"><img src="https://img.shields.io/badge/Contact BADBOI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="https://wa.me/2250500107362"><img src="https://img.shields.io/badge/Contact BADBOI-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <a href="https://whatsapp.com/channel/0029VadCyFZGufJ2YW4bG42x"><img src="https://img.shields.io/badge/Join Official Channel-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
    
 <a href='https://chat.whatsapp.com/LYOPu85NAVv4ymxOxCxRQY' target="_blank"><img alt='Whatsapp' src='https://img.shields.io/badge/OFFICIAL-GC-h?color=black&style=for-the-badge&logo=whatsapp' width="96.35" height="28"/></a></p>
@@ -160,15 +160,15 @@ npm i -g forever && forever index.js && forever save && forever logs
   
 | [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/BADBOI-v1.png?size=150)](https://github.com/BADBOI-v1) |
 |----|
-| [  Badboi Hacker](https://github.com/BADBOI-v1) |
+| [   |
 |  Developer |
 
   </div>
   <div align="center">
   
-| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Anime-King01) |
+| [![Tᴀɪʀᴀ Mᴀᴋɪɴᴏ](https://github.com/Anime-King01.png?size=150)](https://github.com/Joker15-tech/BADBOI-v2) |
 |----|
-| [  Lord No Name](https://github.com/Anime-King01) |
+| [  Mr Joker](https://github.com/Anime-King01) |
 |  Co-Developer |
 
   </div>
